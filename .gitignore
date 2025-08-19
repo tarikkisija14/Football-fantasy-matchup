@@ -1,28 +1,78 @@
-# Angular specific
-/dist/
-/out-tsc/
-/tmp/
-/coverage/
-/e2e/test-output/
-/.angular/
-.angular/
+# === OS / Editor ===
+.DS_Store
+*.swp
+*.swo
+*.log
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-# Node modules and dependency files
+# === Node.js / Angular ===
 /node_modules/
-/package-lock.json
-/yarn.lock
+/dist/
+/.angular/cache
+npm-debug.log
+yarn-error.log
 
-# Environment files
-/.env
+# === .NET Core ===
+/bin/
+/obj/
+/.vs/
+/publish/
+*.pyc
+*.ncrunchsolution
+*.ncrunchproject
+*.dotCover
+*.testlog
+*.trx
+*.opensdf
+*.sdf
+*.db
+*.db-shm
+*.db-wal
 
-# Angular CLI and build artefacts
-/.angular-cli.json
-/.ng/
+# === Rider / Visual Studio ===
+*.csproj.user
+*.resharper
+_ReSharper.*
+*.sln.ide
 
-# TypeScript cache
-*.tsbuildinfo
+# === User-specific ===
+*.userprefs
+*.usertest
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# === Build results ===
+[Bb]in/
+[Oo]bj/
+*.msi
+*.cache
+*.orig
+
+# === NuGet ===
+**/[Pp]ackages/*
+!**/[Pp]ackages/repositories.config
+.nuget/
+nuget.exe
+*.nupkg
+
+# === Azure ===
+*.pubxml
+*.publishsettings
+
+# === Environment ===
+.env
+*.env.local
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Staging.json
+
+# === Misc ===
+*.bak
+*.tmp
+*.~*
+*~
+*.log
+Thumbs.db
