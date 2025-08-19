@@ -1,6 +1,6 @@
 ﻿namespace FootballFantasyMatchup.DTOs
 {
-    public class Formation
+    public class Formations
     {
         public string Name { get; set; } = "";
         public List<FormationSpot> Spots { get; set; } = new();
@@ -9,8 +9,8 @@
     public class FormationSpot
     {
         public string Position { get; set; } = "";
-        public string X { get; set; }
-        public string Y { get; set; }
+        public int X { get; set; }
+        public int Y { get; set; }
 
     }
 
