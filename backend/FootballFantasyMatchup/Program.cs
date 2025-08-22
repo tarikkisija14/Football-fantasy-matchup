@@ -1,11 +1,11 @@
+using FootballApi.Services;
 using FootballFantasyMatchup;
 using FootballFantasyMatchup.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.Configure<FootballFantasyMatchup.FootballApiSettings>(
-    builder.Configuration.GetSection("FootballApi"));
+
 
 var allowedOrigins = builder.Configuration.GetSection("Cors:AllowedOrigins").Get<string[]>() ?? Array.Empty<string>();
 builder.Services.AddCors(opt =>
@@ -20,9 +20,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddSingleton<PlayerService>();
+builder.Services.AddSingleton<FormationService>();
 
-builder.Services.AddHttpClient<FootballApiClient>();
-builder.Services.AddScoped<IPlayerService, PlayerService>();
 
 var app = builder.Build();
 // Configure the HTTP request pipeline.

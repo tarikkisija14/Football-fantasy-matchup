@@ -1,17 +1,17 @@
-﻿namespace FootballFantasyMatchup.DTOs
+﻿using Microsoft.VisualBasic;
+
+namespace FootballFantasyMatchup.DTOs
 {
     public class Formations
     {
-        public string Name { get; set; } = "";
-        public List<FormationSpot> Spots { get; set; } = new();
+        public int Id { get; set; }
+        public string Formacija { get; set; } = string.Empty;
+        public List<string> Pozicije { get; set; } = new();
     }
 
-    public class FormationSpot
+    public class FormationsRoot
     {
-        public string Position { get; set; } = "";
-        public int X { get; set; }
-        public int Y { get; set; }
-
+        public List<Formations> Formacije { get; set; } = new();
     }
 
 }

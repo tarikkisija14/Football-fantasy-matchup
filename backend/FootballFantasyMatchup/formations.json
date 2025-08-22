@@ -1,0 +1,104 @@
+{
+  "formacije": [
+    {
+      "id": 1,
+      "formacija": "4-4-2",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MR", "MC", "MC", "ML", "ST", "ST"]
+    },
+    {
+      "id": 2,
+      "formacija": "4-4-2 Diamond",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "MC", "MC", "AMC", "ST", "ST"]
+    },
+    {
+      "id": 3,
+      "formacija": "4-3-3",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MC", "MC", "MC", "AMR", "AML", "ST"]
+    },
+    {
+      "id": 4,
+      "formacija": "4-3-3 DM",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "MC", "MC", "AMR", "AML", "ST"]
+    },
+    {
+      "id": 5,
+      "formacija": "4-2-3-1",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "DM", "AMR", "AMC", "AML", "ST"]
+    },
+    {
+      "id": 6,
+      "formacija": "4-1-4-1",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "MR", "MC", "MC", "ML", "ST"]
+    },
+    {
+      "id": 7,
+      "formacija": "4-2-2-2",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "DM", "AMC", "AMC", "ST", "ST"]
+    },
+    {
+      "id": 8,
+      "formacija": "4-1-2-1-2",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "MC", "MC", "AMC", "ST", "ST"]
+    },
+    {
+      "id": 9,
+      "formacija": "3-4-3",
+      "pozicije": ["GK", "DC", "DC", "DC", "WBR", "WBL", "MC", "MC", "AMR", "AML", "ST"]
+    },
+    {
+      "id": 10,
+      "formacija": "3-5-2",
+      "pozicije": ["GK", "DC", "DC", "DC", "WBR", "WBL", "DM", "MC", "MC", "ST", "ST"]
+    },
+    {
+      "id": 11,
+      "formacija": "3-4-1-2",
+      "pozicije": ["GK", "DC", "DC", "DC", "WBR", "WBL", "MC", "MC", "AMC", "ST", "ST"]
+    },
+    {
+      "id": 12,
+      "formacija": "3-4-2-1",
+      "pozicije": ["GK", "DC", "DC", "DC", "WBR", "WBL", "MC", "MC", "AMC", "AMC", "ST"]
+    },
+    {
+      "id": 13,
+      "formacija": "5-3-2",
+      "pozicije": ["GK", "WBR", "DC", "DC", "DC", "WBL", "MC", "MC", "MC", "ST", "ST"]
+    },
+    {
+      "id": 14,
+      "formacija": "5-2-2-1",
+      "pozicije": ["GK", "WBR", "DC", "DC", "DC", "WBL", "DM", "DM", "AMC", "AMC", "ST"]
+    },
+    {
+      "id": 15,
+      "formacija": "5-2-3",
+      "pozicije": ["GK", "WBR", "DC", "DC", "DC", "WBL", "DM", "DM", "AMR", "AML", "ST"]
+    },
+    {
+      "id": 16,
+      "formacija": "4-5-1",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MR", "MC", "MC", "MC", "ML", "ST"]
+    },
+    {
+      "id": 17,
+      "formacija": "4-1-2-3",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "DM", "MC", "MC", "AMR", "AML", "ST"]
+    },
+    {
+      "id": 18,
+      "formacija": "4-3-1-2",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MC", "MC", "MC", "AMC", "ST", "ST"]
+    },
+    {
+      "id": 19,
+      "formacija": "4-4-1-1",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MR", "MC", "MC", "ML", "AMC", "ST"]
+    },
+    {
+      "id": 20,
+      "formacija": "4-2-4",
+      "pozicije": ["GK", "DR", "DC", "DC", "DL", "MC", "MC", "AMR", "AML", "ST", "ST"]
+    }
+  ]
+}

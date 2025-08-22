@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:services\\formationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\dtos\\formations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:dtos\\formations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\footballapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:footballapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\footballapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:footballapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:services\\playerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:services\\iplayerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\dtos\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:dtos\\formation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\dtos\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:dtos\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|c:\\users\\tarik\\desktop\\fantasy matchup\\backend\\footballfantasymatchup\\controllers\\formationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6FA0F7-D79E-4484-994B-781040781634}|FootballApi.csproj|solutionrelative:controllers\\formationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,119 +30,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formations.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Formations.cs",
+              "RelativeDocumentMoniker": "DTOs\\Formations.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Formations.cs",
+              "RelativeToolTip": "DTOs\\Formations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:01:12.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T15:49:09.868Z",
+              "Title": "FormationService.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\FormationService.cs",
+              "RelativeDocumentMoniker": "Services\\FormationService.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\FormationService.cs*",
+              "RelativeToolTip": "Services\\FormationService.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:00:23.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FormationsController.cs",
+              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Controllers\\FormationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormationsController.cs",
+              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Controllers\\FormationsController.cs",
+              "RelativeToolTip": "Controllers\\FormationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:58.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:16.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FootballApiSettings.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\FootballApiSettings.cs",
-              "RelativeDocumentMoniker": "FootballApiSettings.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\FootballApiSettings.cs",
-              "RelativeToolTip": "FootballApiSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:55.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FootballApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\FootballApiClient.cs",
-              "RelativeDocumentMoniker": "FootballApiClient.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\FootballApiClient.cs",
-              "RelativeToolTip": "FootballApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:54.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerService.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\PlayerService.cs",
-              "RelativeDocumentMoniker": "Services\\PlayerService.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\PlayerService.cs",
-              "RelativeToolTip": "Services\\PlayerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:53.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPlayerService.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\IPlayerService.cs",
-              "RelativeDocumentMoniker": "Services\\IPlayerService.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\Services\\IPlayerService.cs",
-              "RelativeToolTip": "Services\\IPlayerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:52.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Formation.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Formation.cs",
-              "RelativeDocumentMoniker": "DTOs\\Formation.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Formation.cs",
-              "RelativeToolTip": "DTOs\\Formation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:50.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Player.cs",
-              "RelativeDocumentMoniker": "DTOs\\Player.cs",
-              "ToolTip": "C:\\Users\\tarik\\Desktop\\Fantasy Matchup\\backend\\FootballFantasyMatchup\\DTOs\\Player.cs",
-              "RelativeToolTip": "DTOs\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T15:47:46.729Z",
+              "WhenOpened": "2025-08-22T11:51:52.466Z",
               "EditorCaption": ""
             }
           ]
