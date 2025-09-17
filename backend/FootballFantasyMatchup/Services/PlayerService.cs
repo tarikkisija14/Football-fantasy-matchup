@@ -33,24 +33,24 @@ namespace FootballFantasyMatchup.Services
 
         public List<Player> GetPlayersByClub(string club)
         {
-            return _players.Where(p => p.Club.Equals(club, StringComparison.OrdinalIgnoreCase)).ToList();
+            return _players.Where(p => p.club.Equals(club, StringComparison.OrdinalIgnoreCase)).ToList();
         }
 
         public List<Player> GetPlayersByNation(string nation)
         {
-            return _players.Where(p => p.Nation.Equals(nation, StringComparison.OrdinalIgnoreCase)).ToList();
+            return _players.Where(p => p.nation.Equals(nation, StringComparison.OrdinalIgnoreCase)).ToList();
         }
 
         public Player? GetPlayerByName(string name)
         {
-            return _players.FirstOrDefault(p => p.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
+            return _players.FirstOrDefault(p => p.name.Equals(name, StringComparison.OrdinalIgnoreCase));
         }
 
         public List<Player> GetPlayersByPositionSorted(string position)
         {
             return _players
-                .Where(p => p.Position.Contains(position, StringComparison.OrdinalIgnoreCase))
-                .OrderByDescending(p => p.Rating) 
+                .Where(p => p.position.Contains(position, StringComparison.OrdinalIgnoreCase))
+                .OrderByDescending(p => p.rating) 
                 .ToList();
         }
 
