@@ -26,21 +26,4 @@
 | **Data Source**| Local JSON files |
 | **Data Format**|  JSON |
 
----
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="images/fantasy-teams.png" width="600"><br>
-  <em>Two Custom Teams</em>
-</p>
-
-<p align="center">
-  <img src="images/formations.png" width="600"><br>
-  <em>Change Formations</em>
-</p>
-
-<p align="center">
-  <img src="images/matchup.png" width="600"><br>
-  <em>Fantasy Matchup View</em>
-</p>
